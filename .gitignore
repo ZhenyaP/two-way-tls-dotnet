@@ -1,0 +1,9 @@
+DesignTimeBuild
+v15
+config
+v16
+netcoreapp2.0
+Docker
+.dockerignore
+*.rnd
+obj
